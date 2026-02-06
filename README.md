@@ -6,7 +6,7 @@ This is not a demo project.
 This is a foundation you can build on without rewriting everything later.
 
 ---
-Purchase: https://zerolevel.gumroad.com/l/oxhfsc?layout=profile
+Purchase: https://zerolevel.gumroad.com/l/fastapi-starter
 
 
 ---
